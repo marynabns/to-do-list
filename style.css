@@ -86,7 +86,7 @@ body {
 
 #wrapper {
     height: 100vh;
-    background: url('../images/image3.jpg') no-repeat 50% 50%;
+    background: url('image3.jpg') no-repeat 50% 50%;
     background-size: cover;
     display: flex;
     flex-direction: column;
