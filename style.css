@@ -209,12 +209,12 @@ body {
 .checkbox{
     height: 25px;
     width: 25px;
-    background-color: #eee;
-    border-radius: 4px;
+    background: linear-gradient(9deg, #ff5722, #fffffff2);
+    border-radius: 100%;
 }
 
 .task.completed .checkbox{
-    background: linear-gradient(343deg, #e29d9d, #fffffff2);
+    background: linear-gradient(9deg, #009688, #fffffff2);
 }
 
 input[type="checkbox"]{
